@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\jonhe\\OneDrive\\Área de Trabalho\\Recuperação Senai\\Recuperação UC 12 e 13\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Recuperação UC 12 e 13.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Recuperação UC 12 e 13.props",
+      "PackagePath": "build\\Recuperação UC 12 e 13.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Recuperação UC 12 e 13.props",
+      "PackagePath": "buildMultiTargeting\\Recuperação UC 12 e 13.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Recuperação UC 12 e 13.props",
+      "PackagePath": "buildTransitive\\Recuperação UC 12 e 13.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

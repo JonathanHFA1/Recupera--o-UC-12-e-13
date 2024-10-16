@@ -1,0 +1,34 @@
+C:\Users\jonhe\OneDrive\Área de Trabalho\Recuperação Senai\Recuperação UC 12 e 13\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\jonhe\OneDrive\Área de Trabalho\Recuperação Senai\Recuperação UC 12 e 13\bin\Debug\net7.0\appsettings.json
+C:\Users\jonhe\OneDrive\Área de Trabalho\Recuperação Senai\Recuperação UC 12 e 13\bin\Debug\net7.0\Recuperação UC 12 e 13.exe
+C:\Users\jonhe\OneDrive\Área de Trabalho\Recuperação Senai\Recuperação UC 12 e 13\bin\Debug\net7.0\Recuperação UC 12 e 13.deps.json
+C:\Users\jonhe\OneDrive\Área de Trabalho\Recuperação Senai\Recuperação UC 12 e 13\bin\Debug\net7.0\Recuperação UC 12 e 13.runtimeconfig.json
+C:\Users\jonhe\OneDrive\Área de Trabalho\Recuperação Senai\Recuperação UC 12 e 13\bin\Debug\net7.0\Recuperação UC 12 e 13.dll
+C:\Users\jonhe\OneDrive\Área de Trabalho\Recuperação Senai\Recuperação UC 12 e 13\bin\Debug\net7.0\Recuperação UC 12 e 13.pdb
+C:\Users\jonhe\OneDrive\Área de Trabalho\Recuperação Senai\Recuperação UC 12 e 13\obj\Debug\net7.0\Recuperação UC 12 e 13.csproj.AssemblyReference.cache
+C:\Users\jonhe\OneDrive\Área de Trabalho\Recuperação Senai\Recuperação UC 12 e 13\obj\Debug\net7.0\Recuperação UC 12 e 13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonhe\OneDrive\Área de Trabalho\Recuperação Senai\Recuperação UC 12 e 13\obj\Debug\net7.0\Recuperação UC 12 e 13.AssemblyInfoInputs.cache
+C:\Users\jonhe\OneDrive\Área de Trabalho\Recuperação Senai\Recuperação UC 12 e 13\obj\Debug\net7.0\Recuperação UC 12 e 13.AssemblyInfo.cs
+C:\Users\jonhe\OneDrive\Área de Trabalho\Recuperação Senai\Recuperação UC 12 e 13\obj\Debug\net7.0\Recuperação UC 12 e 13.csproj.CoreCompileInputs.cache
+C:\Users\jonhe\OneDrive\Área de Trabalho\Recuperação Senai\Recuperação UC 12 e 13\obj\Debug\net7.0\Recuperação UC 12 e 13.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jonhe\OneDrive\Área de Trabalho\Recuperação Senai\Recuperação UC 12 e 13\obj\Debug\net7.0\staticwebassets\msbuild.Recuperação UC 12 e 13.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jonhe\OneDrive\Área de Trabalho\Recuperação Senai\Recuperação UC 12 e 13\obj\Debug\net7.0\staticwebassets\msbuild.build.Recuperação UC 12 e 13.props
+C:\Users\jonhe\OneDrive\Área de Trabalho\Recuperação Senai\Recuperação UC 12 e 13\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Recuperação UC 12 e 13.props
+C:\Users\jonhe\OneDrive\Área de Trabalho\Recuperação Senai\Recuperação UC 12 e 13\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Recuperação UC 12 e 13.props
+C:\Users\jonhe\OneDrive\Área de Trabalho\Recuperação Senai\Recuperação UC 12 e 13\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\jonhe\OneDrive\Área de Trabalho\Recuperação Senai\Recuperação UC 12 e 13\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\jonhe\OneDrive\Área de Trabalho\Recuperação Senai\Recuperação UC 12 e 13\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\jonhe\OneDrive\Área de Trabalho\Recuperação Senai\Recuperação UC 12 e 13\obj\Debug\net7.0\scopedcss\bundle\Recuperação UC 12 e 13.styles.css
+C:\Users\jonhe\OneDrive\Área de Trabalho\Recuperação Senai\Recuperação UC 12 e 13\obj\Debug\net7.0\Recuperação UC 12 e 13.dll
+C:\Users\jonhe\OneDrive\Área de Trabalho\Recuperação Senai\Recuperação UC 12 e 13\obj\Debug\net7.0\refint\Recuperação UC 12 e 13.dll
+C:\Users\jonhe\OneDrive\Área de Trabalho\Recuperação Senai\Recuperação UC 12 e 13\obj\Debug\net7.0\Recuperação UC 12 e 13.pdb
+C:\Users\jonhe\OneDrive\Área de Trabalho\Recuperação Senai\Recuperação UC 12 e 13\obj\Debug\net7.0\Recuperação UC 12 e 13.genruntimeconfig.cache
+C:\Users\jonhe\OneDrive\Área de Trabalho\Recuperação Senai\Recuperação UC 12 e 13\obj\Debug\net7.0\ref\Recuperação UC 12 e 13.dll
+C:\Users\jonhe\OneDrive\Área de Trabalho\Recuperação Senai\Recuperação UC 12 e 13\bin\Debug\net7.0\Recuperação UC 12 e 13.staticwebassets.runtime.json
+C:\Users\jonhe\OneDrive\Área de Trabalho\Recuperação Senai\Recuperação UC 12 e 13\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\jonhe\OneDrive\Área de Trabalho\Recuperação Senai\Recuperação UC 12 e 13\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\jonhe\OneDrive\Área de Trabalho\Recuperação Senai\Recuperação UC 12 e 13\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\jonhe\OneDrive\Área de Trabalho\Recuperação Senai\Recuperação UC 12 e 13\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\jonhe\OneDrive\Área de Trabalho\Recuperação Senai\Recuperação UC 12 e 13\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jonhe\OneDrive\Área de Trabalho\Recuperação Senai\Recuperação UC 12 e 13\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jonhe\OneDrive\Área de Trabalho\Recuperação Senai\Recuperação UC 12 e 13\obj\Debug\net7.0\Recuperação UC 12 e 13.csproj.CopyComplete

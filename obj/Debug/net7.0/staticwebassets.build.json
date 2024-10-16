@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "cR4VT5M0CJlx4oLZiJF9QdSrDSmXWElnGdHFaoyNX30=",
+  "Source": "Recuperação UC 12 e 13",
+  "BasePath": "_content/Recuperação UC 12 e 13",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Recuperação UC 12 e 13\\wwwroot",
+      "Source": "Recuperação UC 12 e 13",
+      "ContentRoot": "C:\\Users\\jonhe\\OneDrive\\Área de Trabalho\\Recuperação Senai\\Recuperação UC 12 e 13\\wwwroot\\",
+      "BasePath": "_content/Recuperação UC 12 e 13",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\jonhe\\OneDrive\\Área de Trabalho\\Recuperação Senai\\Recuperação UC 12 e 13\\wwwroot\\index.html",
+      "SourceId": "Recuperação UC 12 e 13",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonhe\\OneDrive\\Área de Trabalho\\Recuperação Senai\\Recuperação UC 12 e 13\\wwwroot\\",
+      "BasePath": "_content/Recuperação UC 12 e 13",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
